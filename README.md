@@ -1,52 +1,35 @@
- Leo Game Engine
-Leo Game Engine is a versatile game engine written in Python, designed to support both 2D and 3D game development. With its simplicity and flexibility, Leo Game Engine empowers developers to create immersive gaming experiences with ease.
+Leo Game Engine
+The Leo Game Engine is a versatile game engine written in Python, designed to empower developers in creating both 2D and 3D games. With its intuitive design and powerful features, it aims to streamline the game development process, offering support for Vulkan graphics API and various input devices through enumeration.
 
 Features
-2D and 3D Support: Leo Game Engine provides comprehensive support for both 2D and 3D game development, allowing developers to create games in various styles and genres.
+2D and 3D Game Development: Leo Game Engine provides support for both 2D and 3D game development, offering flexibility for various game genres and styles.
 
-Python-Powered: Built using Python, Leo Game Engine leverages the simplicity and readability of the language, enabling developers to focus on game logic and creativity without dealing with complex syntax.
+Vulkan Graphics API: Leveraging the Vulkan graphics API ensures high performance and efficiency in rendering graphics, enabling visually stunning games.
 
-Cross-Platform Compatibility: Leo Game Engine is designed to run seamlessly across multiple platforms, including Windows, macOS, and Linux, ensuring that your games can reach a wide audience.
+Input Device Enumeration: The engine supports various input devices, such as keyboards, mice, gamepads, and more, through enumeration, making it easy to integrate different input methods into your games.
 
-Easy to Use: With its intuitive API and clear documentation, Leo Game Engine is straightforward for both beginners and experienced developers, streamlining the game development process.
-
-Graphics and Sound: The engine supports graphics rendering and sound playback, allowing developers to create visually stunning and immersive gaming experiences.
-
-Physics Simulation: Leo Game Engine includes built-in physics simulation capabilities, enabling realistic interactions between game objects and environments.
+Eclipse Public License 2.0: Leo Game Engine is released under the permissive Eclipse Public License 2.0, allowing developers to use, modify, and distribute the engine for both commercial and non-commercial purposes.
 
 Getting Started
 To get started with Leo Game Engine, follow these steps:
 
-Install Python: Make sure you have Python installed on your system. You can download it from python.org.
+Installation: Clone the repository from GitHub or download the source code.
 
-Install Dependencies: Leo Game Engine has several dependencies, including Pygame for graphics rendering and PyOpenGL for 3D support. Install these dependencies using pip:
+Dependencies: Ensure you have Python installed on your system. Additionally, install any dependencies specified in the requirements.txt file.
 
-bash
-Copy code
-pip install pygame PyOpenGL
-Download Leo Game Engine: Clone the Leo Game Engine repository from GitHub:
-
-bash
-Copy code
-git clone https://github.com/leo-game-engine/leo-game-engine.git
-Start Developing: Dive into the examples and documentation provided with Leo Game Engine to start building your games. Experiment with different features and unleash your creativity!
-
-Examples
-Leo Game Engine comes with a variety of examples to demonstrate its capabilities. These examples cover basic game mechanics, graphics rendering, input handling, and more. Explore the examples directory in the repository to find inspiration for your own projects.
+Usage: Refer to the documentation and examples provided to start building your games using the engine. Explore the functionalities available for graphics rendering, input handling, and game logic implementation.
 
 Documentation
-For detailed documentation on how to use Leo Game Engine and its various features, refer to the docs directory in the repository. The documentation provides comprehensive explanations, code samples, and usage guidelines to help you make the most of the engine.
+Comprehensive documentation is available to guide you through the setup and usage of Leo Game Engine. The documentation covers installation instructions, API reference, tutorials, and examples to help you make the most out of the engine's features.
 
 Contributing
-We welcome contributions from the community to improve Leo Game Engine. Whether it's fixing bugs, adding new features, or enhancing documentation, your contributions are invaluable. To contribute, fork the repository, make your changes, and submit a pull request. Be sure to follow the contribution guidelines outlined in the CONTRIBUTING.md file.
-
-Support
-If you encounter any issues while using Leo Game Engine or have any questions, feel free to reach out to us. You can open an issue on GitHub, join our Discord server, or contact us via email. We're here to help you succeed in your game development endeavors.
+Contributions to Leo Game Engine are welcome! Whether you're interested in fixing bugs, adding new features, or improving documentation, your contributions are valuable to the community. Refer to the contribution guidelines in the repository for more information on how to get involved.
 
 License
-Leo Game Engine is released under the MIT License. See the LICENSE file for more details.
+Leo Game Engine is licensed under the Eclipse Public License 2.0. You are free to use, modify, and distribute the engine, subject to the terms and conditions of the license. See the LICENSE file for more details.
 
-Acknowledgements
-Leo Game Engine would not be possible without the contributions of numerous individuals and open-source projects. We extend our gratitude to everyone who has helped make this project a reality.
+Support
+For any questions, issues, or feedback regarding Leo Game Engine, feel free to reach out to the community through GitHub discussions or by opening an issue in the repository. We're here to help and improve the engine together!
 
-
+Acknowledgments
+Leo Game Engine stands on the shoulders of giants, benefiting from the contributions and innovations of the open-source community. We extend our gratitude to all the developers and contributors who have made this project possible.
